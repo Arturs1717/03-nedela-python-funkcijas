@@ -1,0 +1,12 @@
+SĀKUMS
+
+Paņem maizi
+Uzliec pildījumu
+
+JA maize jāgrauzdē TAD
+    Grauzdē maizi
+BEIGAS_JA
+
+Saliec sviestmaizi
+
+BEIGAS
