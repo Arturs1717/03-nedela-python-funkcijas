@@ -38,3 +38,12 @@ def is_palindrome(text):
     """Pārbauda vai teksts ir palindroms"""
     t = text.lower()
     return t == t[::-1]
+
+if __name__ == "__main__":
+    print(is_even(4))
+    print(is_odd(5))
+    print(average([1,2,3,4]))
+    print(max_in_list([5,2,9]))
+    print(min_in_list([5,2,9]))
+    print(count_vowels("programmesana"))
+    print(reverse_text("hello"))
